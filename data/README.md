@@ -1,7 +1,9 @@
 This is a dataset from Kaggle which can be accessed on https://www.kaggle.com/datasets/lobosi/c02-emission-by-countrys-grouth-and-population
 
-Countries CO2 Emission and more...
+#Countries CO2 Emission and more...
 Yearly CO2 Emission by each Countrys Energy Con/Prod, GDP, Population and more
+
+##About Dataset
 The world is becoming more modernized by the year, and with this becoming all the more polluted.
 
 This data was pulled from the US Energy Administration and joined together for an easier analysis. Its a collection of some big factors that play into C02 Emissions, with everything from the Production and Consumption of each type of major energy source for each country and its pollution rating each year. It also includes each countries GDP, Population, Energy intensity per capita (person), and Energy intensity per GDP (per person GDP). All the data spans all the way from the 1980's to 2020.
